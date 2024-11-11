@@ -1,4 +1,3 @@
-# API - É um lugar para disponibilizar recursos e/ou funcionalidades
 # 1. Objetivo - Criar um api que disponibiliza a consulta, criaçção, ediõ e exclusão de livros.
 # 2. URL base - localhost
 # 3. Endpoints- 
